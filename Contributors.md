@@ -12,6 +12,6 @@ Also notice how there is a little dash at the beginning
 - Stephen Rogers - - Computer Science - [GitHub](https://github.com/grogersstephen)-
 - Sheila Subbiah - Management Information Systems - Masters - [Sheila's GitHub](https://github.com/userGitHub34535)
 - Andrew Lewis - Senior - Computer Science - [GitHub](https://github.com/AnLewis78)
--
+- Annalisa Smith - Junior - Computor Science - (https://github.com/ASmith623)
 -
 Do not edit below this line.
